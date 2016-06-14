@@ -1,2 +1,2 @@
 # find
-![alt tag](https://raw.github.com/lcpo/find/print_en.png)
+![alt tag](https://github.com/lcpo/find/blob/master/print_en.png?raw=true)
