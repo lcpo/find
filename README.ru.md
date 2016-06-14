@@ -4,6 +4,6 @@
 ##Протестирована
 - Pure-FTPd
 - vsFTPd 2.2.2
-- ProFTPD
+- ProFTPD 
 ![alt tag](https://github.com/lcpo/find/blob/master/print_en.png?raw=true) 
 По вопросам и предложениям обращаться на lcpo.net@yandex.com
