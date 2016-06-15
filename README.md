@@ -1,6 +1,7 @@
-# find
+# FtpFindPro
 The program allows you to search for files via ftp protocol for content.
 The application includes multithreading and caching system, it is available in two languages, English and Russian.
+It is currently undergoing an open beta test application.
 ##Tested
 
 - Pure-FTPd
