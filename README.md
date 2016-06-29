@@ -14,12 +14,12 @@ It is currently undergoing an open beta test application.
 
 ## Antivirus
 
-Dr. Web CureIt! - Virus not finds. The work program shall not prevent.
-McAfee LiveSafe - Virus not finds. The work program shall not prevent.
-Panda Internet Security 2016 - Virus not finds. The work program shall not prevent.
-Dr.Web Security Space 11.0 - Virus not finds. But constantly asked to allow or deny.
-Kaspersky Internet Security 2016 - Virus not finds. Do not run the streams.
-Avira Internet Security - Virus not finds. Do not run the streams, search is not performed. If you disable the firewall starts to working, when you start search, Avira ask to permission for network connection program.
+- Dr. Web CureIt! - Virus not finds. The work program shall not prevent.
+- McAfee LiveSafe - Virus not finds. The work program shall not prevent.
+- Panda Internet Security 2016 - Virus not finds. The work program shall not prevent.
+- Dr.Web Security Space 11.0 - Virus not finds. But constantly asked to allow or deny.
+- Kaspersky Internet Security 2016 - Virus not finds. Do not run the streams.
+- Avira Internet Security - Virus not finds. Do not run the streams, search is not performed. If you disable the firewall starts to working, when you start search, Avira ask to permission for network connection program.
 
 ## Оperation example
 
